@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Rio, Brazil.
 * ✉️  You can contact me at [juliosilvacoutinho@gmail.com](mailto:juliosilvacoutinho@gmail.com)
-* 🚀  I'm currently working on [My Portfolio](http://julionotes.netlify.app/)
+* 🚀  I'm currently working on [My Portfolio](https://juliocoutinho.dev)
 * 🧠  I'm learning Advanced Full Stack development.
 * 🤝  I'm open to collaborating on open-source projects.
 * ⚡  I'm looking for my first developer job.
