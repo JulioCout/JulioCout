@@ -9,7 +9,6 @@ Full Stack Web Developer
 * 🚀  I'm currently working on [My Portfolio](https://juliocoutinho.dev)
 * 🧠  I'm learning Advanced Full Stack development.
 * 🤝  I'm open to collaborating on open-source projects.
-* ⚡  I'm looking for my first developer job.
 
 ### Skills
 
