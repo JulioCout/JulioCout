@@ -33,9 +33,11 @@ Front End Web Developer
                     
 ### Socials
                   
-                  
-<p align="left">
-                          
-<a href="https://www.github.com/JulioCout" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.linkedin.com/in/juliocscoutinho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<a href="https://github.com/JulioCout" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCout&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/JulioCout/vue-ecommerce-2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCout&repo=vue-ecommerce-2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/JulioCout/vue-ecommerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCout&repo=vue-ecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="left"><a href="https://www.github.com/JulioCout" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/juliocscoutinho" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+<a href="https://github.com/JulioCout" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCout&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+<div width="100%" align="center"><a href="https://github.com/JulioCout/vue-ecommerce-2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCout&repo=vue-ecommerce-2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/JulioCout/vue-ecommerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioCout&repo=vue-ecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
