@@ -19,7 +19,9 @@
 <br/>  
 
 
-## My Skill Set 
+## My Skill Set  
+<table ><tr><td valign="top" width="50%">
+
 
 
 ### Backend  
@@ -33,6 +35,8 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="50%">
+
 
 
 ### Frontend  
@@ -44,6 +48,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>
+
+</td></tr></table>  
 
 <br/>  
 
@@ -64,3 +70,4 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCout&hide_border=true&layout=compact" align="center" /></div>  
+
