@@ -4,7 +4,7 @@
 - 💻  See my portfolio at [juliocoutinho.dev](https://www.juliocoutinho.dev)  
   
 
-- 🌱 I’m currently learning Django Rest Framework  
+- 🌱 I’m currently developing Django APIs
   
 
 - 🌎 I'm based in Rio, Brazil  
